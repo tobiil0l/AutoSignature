@@ -6,7 +6,7 @@ BetterDiscord plugin to automatically add a "Signature" or any text to the botto
 3. Simply modify the text in the config to your liking
 4. Send a message!
 
-
+[CODE]
 MIT License
 
 Copyright (c) 2024 tobiil0l
@@ -28,3 +28,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+[/CODE]
