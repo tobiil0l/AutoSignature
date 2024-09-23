@@ -74,7 +74,7 @@ module.exports = (() => {
                         new Settings.SettingGroup("Signature Settings").append(
                             new Settings.Textbox("Signature", "Enter the signature to be appended to each message.", this.settings.signature, value => {
                                 this.settings.signature = value;
-                            }, { rows: 5 })  // Set rows to make it multi-line
+                            }, { rows: 5 })
                         )
                     );
                 }
